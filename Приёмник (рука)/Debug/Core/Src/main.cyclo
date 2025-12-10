@@ -1,0 +1,10 @@
+../Core/Src/main.c:122:16:ParseFrame	13
+../Core/Src/main.c:193:13:UpdateServos	1
+../Core/Src/main.c:212:13:SmoothServos	6
+../Core/Src/main.c:240:5:main	5
+../Core/Src/main.c:306:6:SystemClock_Config	3
+../Core/Src/main.c:341:13:MX_TIM3_Init	5
+../Core/Src/main.c:371:13:MX_TIM4_Init	5
+../Core/Src/main.c:401:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:417:13:MX_GPIO_Init	1
+../Core/Src/main.c:435:6:Error_Handler	1
