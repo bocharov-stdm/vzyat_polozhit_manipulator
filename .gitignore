@@ -1,0 +1,6 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# Local debug configurations
+*.launch
